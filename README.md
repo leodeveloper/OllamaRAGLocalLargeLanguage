@@ -1,6 +1,6 @@
 # RAG Chat with Ollama and LangChain
 
-![RAG Chat Logo](https://example.com/logo.png)
+![RAG Chat Logo](https://github.com/leodeveloper/OllamaRAGLocalLargeLanguage/blob/main/RAGLocalOllama.png)
 
 Welcome to RAG Chat, your local Retrieval Augmented Generation (RAG) pipeline! This application allows you to interactively chat with your PDF files using the power of Ollama and LangChain.
 
@@ -18,3 +18,6 @@ To install RAG Chat, follow these steps:
 1. Clone this repository to your local machine.
    ```bash
     https://github.com/leodeveloper/OllamaRAGLocalLargeLanguage
+
+##courtesy
+https://github.com/tonykipkemboi/ollama_pdf_rag
